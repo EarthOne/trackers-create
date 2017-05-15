@@ -1,0 +1,15 @@
+{
+  "name": "tracker-entry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Agarwal <niftytushar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.0.0",
+    "superagent": "^3.3.1"
+  }
+}
